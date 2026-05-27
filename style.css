@@ -31,7 +31,7 @@ body {
   font-weight: 800;
   letter-spacing: -0.05em;
   background: linear-gradient(to right, #ffffff, #64748b);
-  -webkit-background-clip: text;
+  /* -webkit-background-clip: text; */
   -webkit-text-fill-color: transparent;
   margin-bottom: 8px;
 }
